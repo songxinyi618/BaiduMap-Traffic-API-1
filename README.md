@@ -8,15 +8,7 @@ http://lbsyun.baidu.com/index.php?title=webapi/traffic
 lanzhou.py
 
 爬取结果：
-兰州市G312.csv
-兰州市栖云北路.csv
-兰州市青兰高速.csv
-兰州市太白东路.csv
-兰州市兴隆山大道.csv
+兰州市G312.csv；兰州市栖云北路.csv；兰州市青兰高速.csv；兰州市太白东路.csv；兰州市兴隆山大道.csv
 
 图表：
-兰州市G312-拥堵距离.PNG
-兰州市栖云北路-拥堵距离.PNG
-兰州市青兰高速-拥堵距离.PNG
-兰州市太白东路-拥堵距离.PNG
-兰州市兴隆山大道-拥堵距离.PNG
+兰州市G312-拥堵距离.PNG；兰州市栖云北路-拥堵距离.PNG；兰州市青兰高速-拥堵距离.PNG；兰州市太白东路-拥堵距离.PNG；兰州市兴隆山大道-拥堵距离.PNG
